@@ -17,3 +17,6 @@ uv run scripts/web_audit.py audit --url https://example.com --output /tmp/web-au
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
